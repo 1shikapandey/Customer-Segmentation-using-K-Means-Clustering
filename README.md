@@ -25,7 +25,7 @@ You can replace the sample dataset with your own customer data (in CSV format) b
 
 <h2>🚀 Installation</h2>
 <pre>
-git clone https://github.com/your-username/customer-segmentation-kmeans.git
+git clone https://github.com/1shikapandey/customer-segmentation-kmeans.git
 cd customer-segmentation-kmeans
 pip install -r requirements.txt
 </pre>
@@ -60,11 +60,6 @@ The output includes a scatter plot with clearly separated clusters representing 
   <li>Interactive dashboard for exploring cluster characteristics</li>
   <li>Integration with real-world marketing tools</li>
 </ul>
-
-<h2>📬 Contact</h2>
-<p>
-For any questions or suggestions, feel free to open an issue or reach out via <strong>your-email@example.com</strong>
-</p>
 
 </body>
 </html>
