@@ -41,7 +41,7 @@ python main.py
   <li>Visualizes the resulting clusters.</li>
 </ul>
 
-<h2>📊 Output</h2>
+<h2>Output</h2>
 <p>
 The output includes a scatter plot with clearly separated clusters representing different customer segments. These clusters can be interpreted to understand the characteristics of each group and design targeted marketing strategies accordingly.
 </p>
