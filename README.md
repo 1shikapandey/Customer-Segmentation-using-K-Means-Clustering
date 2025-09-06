@@ -23,7 +23,7 @@ This project uses a customer dataset containing features such as Annual Income, 
 You can replace the sample dataset with your own customer data (in CSV format) by keeping the column names consistent.
 </p>
 
-<h2>🚀 Installation</h2>
+<h2>Installation</h2>
 <pre>
 git clone https://github.com/1shikapandey/customer-segmentation-kmeans.git
 cd customer-segmentation-kmeans
