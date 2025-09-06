@@ -54,7 +54,7 @@ The output includes a scatter plot with clearly separated clusters representing 
   <li>Visualization of customer segments.</li>
 </ul>
 
-<h2>💡 Future Improvements</h2>
+<h2>Future Improvements</h2>
 <ul>
   <li>Support for additional clustering algorithms (e.g. DBSCAN, Agglomerative Clustering)</li>
   <li>Interactive dashboard for exploring cluster characteristics</li>
