@@ -46,7 +46,7 @@ python main.py
 The output includes a scatter plot with clearly separated clusters representing different customer segments. These clusters can be interpreted to understand the characteristics of each group and design targeted marketing strategies accordingly.
 </p>
 
-<h2>📌 Features</h2>
+<h2>Features</h2>
 <ul>
   <li>Data preprocessing and feature selection.</li>
   <li>Elbow method for optimal cluster selection.</li>
