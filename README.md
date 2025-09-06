@@ -30,7 +30,7 @@ cd customer-segmentation-kmeans
 pip install -r requirements.txt
 </pre>
 
-<h2>⚙️ Usage</h2>
+<h2>Usage</h2>
 <pre>
 python main.py
 </pre>
