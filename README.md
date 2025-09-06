@@ -8,7 +8,7 @@
 This project applies K-Means clustering to analyze customer datasets and uncover hidden patterns in purchasing behaviour and demographic attributes. By grouping similar customers into meaningful segments, the model enables businesses to better understand their audience, personalize marketing strategies, and improve decision-making through data-driven insights.
 </p>
 
-<h2>🛠️ Prerequisites</h2>
+<h2>Prerequisites</h2>
 <ul>
   <li>Python (3.8+)</li>
   <li>scikit-learn</li>
