@@ -17,7 +17,7 @@ This project applies K-Means clustering to analyze customer datasets and uncover
   <li>matplotlib</li>
 </ul>
 
-<h2>📁 Dataset</h2>
+<h2>Dataset</h2>
 <p>
 This project uses a customer dataset containing features such as Annual Income, Spending Score, Age, and Gender.
 You can replace the sample dataset with your own customer data (in CSV format) by keeping the column names consistent.
