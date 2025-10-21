@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-
+  
 <h1>Customer Segmentation using K-Means Clustering</h1>
 
 <p>
